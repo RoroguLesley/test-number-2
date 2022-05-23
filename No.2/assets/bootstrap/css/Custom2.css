@@ -1,0 +1,43 @@
+.c{
+    width: 100%;
+    height: 100vh;
+}
+.d{
+    width: 100%;
+    height: auto;
+    background-image: url("../../images/pexels-lukas-1419923.jpg");
+    background-size: 100%;
+}
+.e{
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.f{
+    width: 100%;
+    height: auto;
+}
+.rows_2 img{
+    height: 30vh;
+    width: 100%;
+}
+.col_button{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.col_div{
+    background-color: rgba(185,145,255,0.2);
+}
+.page_columns{
+    border: 10px coral;
+}
+.f{
+    background-image: url("../../images/pexels-quang-nguyen-vinh-2156083.jpg");
+    background-size: 100%;
+}
+.nav_div{
+    height: auto;
+    display: inline-block;
+}
